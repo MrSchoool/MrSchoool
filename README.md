@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MrSchool
+- 👋 Hi, I’m MrSchoool
 - 🖥️ I'm currently working on BlackScythe
 - 👀 I’m interested in Coding, Minecraft and Brawlhalla
 - 🌱 I’m currently learning Swift
