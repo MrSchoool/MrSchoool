@@ -1,9 +1,8 @@
 - 👋 Hi, I’m MrSchoool
-- 🖥️ I'm currently working on BlackScythe, PurpleHead
-- 👀 I’m interested in Coding, Minecraft and Brawlhalla
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on JavaScript, Java and Python Projects
-- 📫 How to reach me: https://twitter.com/Mr_School_Dev
+- 🖥️ I'm currently working on SonepGames, PurpleHead
+- 👀 I’m interested in Coding, Games
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: Coming Soon!
 - 💻 Discord name: -<☆>S c h o o lツ<☆>-#6308
 
 
