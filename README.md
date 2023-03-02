@@ -61,6 +61,10 @@
 </div>
 
   
+<h2 align="left">🏆 GitHub Trophies:</h2>
+![](https://github-profile-trophy.vercel.app/?username=mrschoool&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+  
   
 ###
 
