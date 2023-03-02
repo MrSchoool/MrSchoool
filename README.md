@@ -60,9 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="22" width="35" alt="jquery logo"  />
 </div>
 
+  
+  
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/M/M/blob/output/snake.svg" alt="Snake animation" />
 
