@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m MrSchoool<br>🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - mrschoool@worldofvirus.com <br>        Discord - -<☆>S c h o o lツ<☆>-#6308<br>⚡ Fun fact: commas are superfluous</p>
+<p align="left">👋 Hi, I’m MrSchoool<br>🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - mrschoool@codingshaker.com <br>        Discord - -<☆>S c h o o lツ<☆>-#6308<br>⚡ Fun fact: commas are superfluous</p>
 
 ###
 
